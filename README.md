@@ -1,16 +1,28 @@
-### Hi there 👋
+# NashiapeKimani
 
-<!--
-**Lornakimani62/Lornakimani62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lorna Kimani is a curious developer looking to for new challenges. She has vast experience in API development using Node js and Vuejs for frontend applications. She is somewhat good at Flask python and can do machine learning models.
 
-Here are some ideas to get you started:
+## Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Lorna's github stats](https://github-readme-stats.vercel.app/api?username=Lornakimani62&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/newtonmunene99)
+
+[![Newtons's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lornakimani62&theme=radical)](https://github.com/Lornakimani62)
+
+## Contact
+
+<details>
+  <summary>📫 How to reach me</summary>
+  <br>
+  <ul>
+    <li>
+      <a href="https://www.linkedin.com/in/lorna-kimani-16186bb2/">Linkedin</a>
+    </li>
+    <li>
+      <a href="mailto:kimanilorna62@gmail.com?Subject=Hey%20Champ.%20I%20have%20a%20proposal.">Email</a>
+    </li>
+    <li>
+      <a href="https://nashiapetuukuo.com/">Website</a>
+    </li>
+  </ul>
+</details>
+
