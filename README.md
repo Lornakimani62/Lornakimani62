@@ -21,7 +21,7 @@ Lorna Kimani is a curious developer looking to for new challenges. She has vast 
       <a href="mailto:kimanilorna62@gmail.com?Subject=Hey%20Champ.%20I%20have%20a%20proposal.">Email</a>
     </li>
     <li>
-      <a href="lornakimani.com">Website</a>
+      <a href="https://lornakimani.com/#/">Website</a>
     </li>
   </ul>
 </details>
